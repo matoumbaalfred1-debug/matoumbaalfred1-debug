@@ -33,7 +33,7 @@
 <p align="left">
 <a href="mailto:matoumbaalfred1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/votre-profil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/matoumba-willy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/matoumbaalfred1-debug" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -65,16 +65,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matoumba-willy&show_icons=true&theme=tokyonight&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matoumba-willy&layout=compact&theme=tokyonight&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=matoumbaalfred1-debug&show_icons=true&theme=tokyonight&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matoumbaalfred1-debug&layout=compact&theme=tokyonight&border_radius=10" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matoumba-willy&theme=tokyonight&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matoumbaalfred1-debug&theme=tokyonight&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-trophies.vercel.app/?username=matoumba-willy&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-trophies.vercel.app/?username=matoumbaalfred1-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -84,9 +84,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matoumba-willy/matoumba-willy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matoumba-willy/matoumba-willy/output/github-contribution-grid-snake.svg" />
-  <img alt="Animation serpent des contributions GitHub" src="https://raw.githubusercontent.com/matoumba-willy/matoumba-willy/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matoumbaalfred1-debug/matoumbaalfred1-debug/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matoumbaalfred1-debug/matoumbaalfred1-debug/output/github-contribution-grid-snake.svg" />
+  <img alt="Animation serpent des contributions GitHub" src="https://raw.githubusercontent.com/matoumbaalfred1-debug/matoumbaalfred1-debug/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
@@ -94,6 +94,6 @@
 
 <div align="center">
 
-![Visiteurs](https://komarev.com/ghpvc/?username=matoumba-willy&color=58A6FF&style=flat-square&label=Visiteurs)
+![Visiteurs](https://komarev.com/ghpvc/?username=matoumbaalfred1-debug&color=58A6FF&style=flat-square&label=Visiteurs)
 
 </div>
