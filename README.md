@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**matoumbaalfred1-debug/matoumbaalfred1-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salut,%20je%20suis%20Willy%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Étudiant%20en%20Génie%20Informatique&descAlignY=62" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Passionné+d'automatisation;Python+%7C+Java+%7C+JavaScript;Toujours+en+train+d'apprendre" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+## 🧑‍💻 Sur moi
+
+- 🎓 Étudiant en **génie informatique**
+- 💻 Je code en **Python, Java, JavaScript/TypeScript**
+- 🤖 Passionné par l'**automatisation** (n8n) et les bases de données modernes (Supabase)
+- 🌐 J'aime construire des applications **web** de bout en bout
+- 📫 Me contacter : **matoumbaalfred1@gmail.com**
+
+<br/>
+
+## 🔗 Contactez-moi
+
+<p align="left">
+<a href="mailto:matoumbaalfred1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/votre-profil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/matoumba-willy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br/>
+
+## 🛠️ Langages et outils
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n" width="45" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" title="Supabase" alt="Supabase" width="45" height="45"/>
+</p>
+
+<br/>
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=matoumba-willy&show_icons=true&theme=tokyonight&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matoumba-willy&layout=compact&theme=tokyonight&border_radius=10" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matoumba-willy&theme=tokyonight&border_radius=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-trophies.vercel.app/?username=matoumba-willy&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 🐍 Activité de contribution
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matoumba-willy/matoumba-willy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matoumba-willy/matoumba-willy/output/github-contribution-grid-snake.svg" />
+  <img alt="Animation serpent des contributions GitHub" src="https://raw.githubusercontent.com/matoumba-willy/matoumba-willy/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Visiteurs](https://komarev.com/ghpvc/?username=matoumba-willy&color=58A6FF&style=flat-square&label=Visiteurs)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
