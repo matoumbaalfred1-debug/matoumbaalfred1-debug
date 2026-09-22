@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salut,%20je%20suis%20Willy%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Étudiant%20en%20Génie%20Informatique&descAlignY=62" width="100%"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack;Passionné+d'automatisation;Python+%7C+Java+%7C+JavaScript;Toujours+en+train+d'apprendre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Matoumba+Willy+Alfred+👋;Étudiant+en+Génie+Informatique" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,11 +10,21 @@
 
 ## 🧑‍💻 Sur moi
 
-- 🎓 Étudiant en **génie informatique**
-- 💻 Je code en **Python, Java, JavaScript/TypeScript**
-- 🤖 Passionné par l'**automatisation** (n8n) et les bases de données modernes (Supabase)
-- 🌐 J'aime construire des applications **web** de bout en bout
-- 📫 Me contacter : **matoumbaalfred1@gmail.com**
+<p>
+<img src="https://api.iconify.design/mdi/school.svg?color=%2358A6FF" width="20" height="20" valign="middle"/>&nbsp; Étudiant en <b>génie informatique</b>
+</p>
+<p>
+<img src="https://api.iconify.design/mdi/code-braces.svg?color=%2358A6FF" width="20" height="20" valign="middle"/>&nbsp; Je code en <b>Python, Java, JavaScript/TypeScript</b>
+</p>
+<p>
+<img src="https://api.iconify.design/mdi/robot-outline.svg?color=%2358A6FF" width="20" height="20" valign="middle"/>&nbsp; Passionné par l'<b>automatisation</b> (n8n) et les bases de données modernes (Supabase)
+</p>
+<p>
+<img src="https://api.iconify.design/mdi/web.svg?color=%2358A6FF" width="20" height="20" valign="middle"/>&nbsp; J'aime construire des applications <b>web</b> de bout en bout
+</p>
+<p>
+<img src="https://api.iconify.design/mdi/email-outline.svg?color=%2358A6FF" width="20" height="20" valign="middle"/>&nbsp; Me contacter : <b>matoumbaalfred1@gmail.com</b>
+</p>
 
 <br/>
 
@@ -87,7 +95,5 @@
 <div align="center">
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=matoumba-willy&color=58A6FF&style=flat-square&label=Visiteurs)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
